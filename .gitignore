@@ -1,0 +1,5 @@
+*.key
+*.pdf
+
+#OS x specific
+.DS_Store

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml xmlns="http://openquake.org/xmlns/nrml/0.5" xmlns:gml="http://www.opengis.net/gml">
+  <fragilityModel assetCategory="building" id="fm_1_converted_from_NRML_04" lossCategory="structural">
+    <description>
+            Fragility model (continuous)
+        </description>
+    <limitStates>
+            slight moderate extreme complete
+        </limitStates>
+    <fragilityFunction format="continuous" id="W" shape="logncdf">
+      <imls imt="PGA" noDamageLimit="5.0000000E-02" minIML="0.0" maxIML="5.0"/>
+      <params ls="slight" mean="0.50" stddev="0.10"/>
+      <params ls="moderate" mean="1.00" stddev="0.40"/>
+      <params ls="extreme" mean="1.50" stddev="0.90"/>
+      <params ls="complete" mean="2.00" stddev="1.60"/>
+    </fragilityFunction>
+  </fragilityModel>
+</nrml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns="http://openquake.org/xmlns/nrml/0.4">
+  <exposureModel id="ep" category="buildings">
+    <description>
+	    Exposure Model for Nepal
+	  </description>
+    <conversions>
+      <costTypes>
+        <costType name="structural" type="per_asset" unit="USD"/>
+        <costType name="nonstructural" type="per_asset" unit="USD"/>
+        <costType name="contents" type="per_asset" unit="USD"/>
+      </costTypes>
+      <insuranceLimit isAbsolute="false"/>
+      <deductible isAbsolute="false"/>
+    </conversions>
+    <assets>
+      <asset id="a1" number="1" taxonomy="W">
+        <location lon="83.313823" lat="29.461172"/>
+        <costs>
+          <cost type="structural" value="11340" deductible="0.1" insuranceLimit="0.8"/>
+          <cost type="nonstructural" value="19845" deductible="0.1" insuranceLimit="0.8"/>
+          <cost type="contents" value="5670" deductible="0.1" insuranceLimit="0.8"/>
+        </costs>
+        <occupancies>
+          <occupancy occupants="5" period="night"/>
+        </occupancies>
+      </asset>
+      <asset id="a2" number="1" taxonomy="W">
+        <location lon="83.313823" lat="29.236172"/>
+        <costs>
+          <cost type="structural" value="11340" deductible="0.1" insuranceLimit="0.8"/>
+          <cost type="nonstructural" value="19845" deductible="0.1" insuranceLimit="0.8"/>
+          <cost type="contents" value="5670" deductible="0.1" insuranceLimit="0.8"/>
+        </costs>
+        <occupancies>
+          <occupancy occupants="5" period="night"/>
+        </occupancies>
+      </asset>
+    </assets>
+  </exposureModel>
+</nrml>

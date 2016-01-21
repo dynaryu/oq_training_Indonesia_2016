@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <dmgDistPerTaxonomy>
+        <damageStates>
+            no_damage slight moderate extreme complete
+        </damageStates>
+        <DDNode>
+            <taxonomy>
+                W
+            </taxonomy>
+            <damage ds="no_damage" mean="2.0000000E+00" stddev="0.0000000E+00"/>
+            <damage ds="slight" mean="-9.0781712E-13" stddev="1.2177946E-27"/>
+            <damage ds="moderate" mean="-2.2640798E-08" stddev="2.6603129E-23"/>
+            <damage ds="extreme" mean="-2.5339427E-06" stddev="2.9795504E-21"/>
+            <damage ds="complete" mean="2.5565846E-06" stddev="6.3847511E-21"/>
+        </DDNode>
+    </dmgDistPerTaxonomy>
+</nrml>

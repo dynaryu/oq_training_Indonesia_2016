@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <totalDmgDist>
+        <damageStates>
+            no_damage slight moderate extreme complete
+        </damageStates>
+        <damage ds="no_damage" mean="3.6178820E+06" stddev="3.2252838E+05"/>
+        <damage ds="slight" mean="3.4132841E+05" stddev="2.2360408E+04"/>
+        <damage ds="moderate" mean="4.7154869E+05" stddev="4.2785008E+04"/>
+        <damage ds="extreme" mean="3.3882775E+05" stddev="4.6678027E+04"/>
+        <damage ds="complete" mean="6.5773400E+05" stddev="2.2088558E+05"/>
+    </totalDmgDist>
+</nrml>

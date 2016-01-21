@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <dmgDistPerAsset>
+        <damageStates>
+            no_damage slight moderate extreme complete
+        </damageStates>
+        <DDNode>
+            <gml:Point>
+                <gml:pos>
+                    83.31382 29.23617
+                </gml:pos>
+            </gml:Point>
+            <asset
+            assetRef="a2"
+            >
+                <damage ds="no_damage" mean="1.0000000E+00" stddev="0.0000000E+00"/>
+                <damage ds="slight" mean="-8.9471947E-13" stddev="1.0148288E-27"/>
+                <damage ds="moderate" mean="-2.0576660E-08" stddev="2.3277738E-23"/>
+                <damage ds="extreme" mean="-2.0826349E-06" stddev="4.6821508E-21"/>
+                <damage ds="complete" mean="2.1032124E-06" stddev="5.1078007E-21"/>
+            </asset>
+        </DDNode>
+        <DDNode>
+            <gml:Point>
+                <gml:pos>
+                    83.31382 29.46117
+                </gml:pos>
+            </gml:Point>
+            <asset
+            assetRef="a1"
+            >
+                <damage ds="no_damage" mean="1.0000000E+00" stddev="0.0000000E+00"/>
+                <damage ds="slight" mean="-1.3097641E-14" stddev="1.4271031E-29"/>
+                <damage ds="moderate" mean="-2.0641373E-09" stddev="4.5724129E-24"/>
+                <damage ds="extreme" mean="-4.5130807E-07" stddev="7.9809388E-22"/>
+                <damage ds="complete" mean="4.5337222E-07" stddev="7.4488760E-22"/>
+            </asset>
+        </DDNode>
+    </dmgDistPerAsset>
+</nrml>

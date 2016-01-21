@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nrml
+xmlns="http://openquake.org/xmlns/nrml/0.5"
+xmlns:gml="http://www.opengis.net/gml"
+>
+    <gmfCollection
+    gsimTreePath="@"
+    sourceModelTreePath=""
+    >
+        <gmfSet
+        stochasticEventSetId="1"
+        >
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000000"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000001"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000002"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000003"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000004"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000005"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000006"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000007"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000008"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000009"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000010"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000011"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000012"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000013"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000014"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000015"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000016"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000017"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000018"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000019"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000020"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000021"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000022"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000023"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000024"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000025"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000026"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000027"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000028"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000029"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000030"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000031"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000032"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000033"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000034"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000035"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000036"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000037"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000038"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000039"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000040"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000041"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000042"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000043"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000044"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000045"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000046"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000047"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000048"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000049"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000050"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000051"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000052"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000053"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000054"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000055"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000056"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000057"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000058"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000059"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000060"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000061"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000062"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000063"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000064"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000065"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000066"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000067"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000068"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000069"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000070"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000071"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000072"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000073"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000074"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000075"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000076"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000077"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000078"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000079"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000080"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000081"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000082"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000083"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000084"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000085"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000086"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000087"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000088"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000089"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000090"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000091"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000092"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000093"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000094"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000095"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000096"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000097"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000098"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+            <gmf
+            IMT="PGA"
+            ruptureId="scenario-0000000099"
+            >
+                <node gmv="6.1406657E-02" lat="2.9236170E+01" lon="8.3313820E+01"/>
+                <node gmv="4.9378407E-02" lat="2.9461170E+01" lon="8.3313820E+01"/>
+            </gmf>
+        </gmfSet>
+    </gmfCollection>
+</nrml>

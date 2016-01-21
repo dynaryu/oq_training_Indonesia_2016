@@ -1,5 +1,6 @@
 *.key
 *.pdf
-
+*.pyc
+/.ipynb_checkpoints
 #OS x specific
 .DS_Store
